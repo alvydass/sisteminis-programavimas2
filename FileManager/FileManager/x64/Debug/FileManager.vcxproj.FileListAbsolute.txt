@@ -1,0 +1,3 @@
+C:\Users\alvyd\source\repos\FileManager\FileManager\x64\Debug\FileManager.Form1.resources
+C:\Users\alvyd\source\repos\FileManager\FileManager\x64\Debug\FileManager.vcxproj.GenerateResource.cache
+C:\Users\alvyd\source\repos\FileManager\FileManager\x64\Debug\FileManager.vcxproj.AssemblyReference.cache
